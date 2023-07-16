@@ -1,0 +1,9 @@
+{
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true
+  },
+  "editor.defaultFormatter": "rome.rome",
+  "rome.requireConfiguration": true,
+}
